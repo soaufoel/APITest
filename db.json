@@ -1,10 +1,47 @@
 {
   "posts":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
+      "propertyName" : "Voltage",
+      "myBool": true,
+      "idealValue": 123.12300109863281,
+      "value": 123.12300109863281,
+      "propertyInfo": "Argonaut info text. Information about voltage and power supply. Argonaut info text. Information about voltage and power supply. Argonaut info text. Information about voltage and power supply. Argonaut info text. Information about voltage and power supply.",
+      "myVector":
+      {
+        "x": 1,
+        "y": 2,
+        "z": 3
+      },
+      "myRotation":
+      {
+        "pitch": 90,
+        "yaw": 180,
+        "roll": 270
+      },
+      "myTransform":
+      {
+        "rotation":
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "w": 1
+        },
+        "translation":
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale3D":
+        {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+        }
+
   ],
   "comments" : [
     {
